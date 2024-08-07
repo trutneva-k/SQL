@@ -7,7 +7,7 @@ This repository provides tools and resources for measuring key business metrics 
 
 | File | Methods | Link |
 |------|---------|------|
-| `Cost, revenue, profit` | `SUM()`, `AVG()`, `MIN()`, `MAX()`, `GROUP BY`, `WHERE`, `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`| [Cost, revenue, profit.ipynb](https://github.com/trutneva-k/SQL/blob/main/Analyzing%20Business%20Data%20in%20SQL.%20Cost%2C%20revenue%2C%20profit.ipynb) |
+| Cost, revenue, profit | `SUM()`, `AVG()`, `MIN()`, `MAX()`, `GROUP BY`, `WHERE`, `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`| [Cost, revenue, profit.ipynb](https://github.com/trutneva-k/SQL/blob/main/Analyzing%20Business%20Data%20in%20SQL.%20Cost%2C%20revenue%2C%20profit.ipynb) |
 | User-Centric KPIs | methods |  |
 |ARPU, Histograms, and Percentiles| methods||
 |Generating an Executive Report| methods||
